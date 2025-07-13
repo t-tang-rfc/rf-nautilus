@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+    <file>../qml/main.qml</file>
+    <file>../qml/FileDialog.qml</file>
+    <file>../qml/Sidebar.qml</file>
+    <file>../qml/FileListView.qml</file>
+    <file>../qml/components/FolderItem.qml</file>
+    <file>../qml/components/FileItem.qml</file>
+</qresource>
+</RCC>
